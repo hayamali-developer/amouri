@@ -2,7 +2,7 @@
 
 @section('content')
 
-<!-- 🩵💎 Banner Section -->
+
 
 
 <!-- 🛍️ Sidebar + Services Section -->
